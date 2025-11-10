@@ -42,10 +42,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepagina  
+
   <img src="readme-images/Screenshot_homepagina_starbucks.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Detailpagina menu
+
   <img src="readme-images/Screenshot_detailpagina_starbucks.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
