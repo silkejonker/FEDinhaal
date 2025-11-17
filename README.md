@@ -36,18 +36,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  Starbucks 
-  https://www.starbucks.nl/nl
+  Elrow 
+  https://elrow.com/en 
 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepagina  
 
-  <img src="readme-images/Screenshot_homepagina_starbucks.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Elrow_homepagina.png" width="375px" alt="Homepagina van elrow website">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-
-  <img src="readme-images/Screenshot_detailpagina_starbucks.png" width="375px" alt="omschrijving van de pagina">
+  Detailpagina 
+  <img src="readme-images/Elrow_detailpagina.png" width="375px" alt="Detailpagina waar de upcoming events van elrow worden weergeven">
  
 </details>
 
