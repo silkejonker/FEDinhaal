@@ -47,6 +47,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Detailpagina 
+  
   <img src="readme-images/Elrow_detailpagina.png" width="375px" alt="Detailpagina waar de upcoming events van elrow worden weergeven">
  
 </details>
