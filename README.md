@@ -62,6 +62,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  Screenreader test:
+  Homepagina 
+  Bij special events worden de buy knoppen niet benoemd - dat zijn link geen 
+  knoppen.
+  Foto: <img src="readme-images/special_events.png" width="375px" alt="screenshot van website">
+
+  De 'go to music' knop word niet genoemd - dat zijn links geen knoppen
+  Foto: Foto: <img src="readme-images/music .png" width="375px" alt="screenshot van website">
+
+WCAG checklist 
+
+
 </details>
 
 
